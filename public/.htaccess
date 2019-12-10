@@ -64,3 +64,4 @@ DirectoryIndex index.php
         # RedirectTemp cannot be used instead
     </IfModule>
 </IfModule>
+lsapi_phpini /home/bryaqbed/dev.avenirlyceen.fr/php.ini
